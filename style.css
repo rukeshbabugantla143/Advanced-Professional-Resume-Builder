@@ -1,0 +1,19 @@
+body { background-color: #f8f9fa; font-family: 'Poppins', sans-serif; }
+        .resume-preview { border: 2px solid #000; padding: 20px; background: #fff; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15); }
+        .resume-header { text-align: center; border-bottom: 3px solid #0d6efd; padding-bottom: 10px; margin-bottom: 20px; }
+        .resume-header h3 { color: #0d6efd; font-weight: bold; }
+        .resume-section { margin-bottom: 15px; }
+        .resume-section h4 { border-bottom: 2px solid #ddd; padding-bottom: 5px; font-weight: bold; }
+        .btn-custom { width: 100%; }
+        .info-row { display: flex; justify-content: space-between; flex-wrap: wrap; }
+        .info-row p { margin: 0 10px; }
+        .section-item { margin-bottom: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; background: #f9f9f9; }
+        .section-item:hover { background: #f1f1f1; }
+        .theme-selector { margin-bottom: 20px; }
+        .theme-selector button { margin-right: 10px; }
+        .skill-bar { background: #e9ecef; border-radius: 5px; height: 10px; margin: 5px 0; }
+        .skill-bar-fill { background: #0d6efd; height: 100%; border-radius: 5px; }
+        .template-selector img { width: 100%; border: 2px solid #ddd; border-radius: 5px; cursor: pointer; }
+        .template-selector img.selected { border-color: #0d6efd; }
+        .photo-upload { margin-bottom: 20px; }
+        .photo-upload img { width: 100px; height: 100px; border-radius: 50%; object-fit: cover; }
